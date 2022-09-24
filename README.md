@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-🎓 I am Or Haim Gavriel, a **Full Stack Developer**.
+I am Or Haim Gavriel, a **Full Stack Developer**.
 
 ## 🛠️ Skills
 
